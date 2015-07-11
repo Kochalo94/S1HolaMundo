@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     @IBAction func miSaludo(sender: AnyObject) {
         
         
-        miLabel.text = "Hola Mundo"
+        miLabel.text = "Hola Mundo git"
         
     }
 
